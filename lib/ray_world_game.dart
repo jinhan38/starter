@@ -1,12 +1,11 @@
-import 'dart:ui';
 
 import 'package:flame/game.dart';
 import 'package:flame/input.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
-import 'package:rayworld/components/player.dart';
-import 'package:rayworld/components/world_collidable.dart';
-import 'package:rayworld/helpers/map_loader.dart';
+import 'components/player.dart';
+import 'components/world_collidable.dart';
+import 'helpers/map_loader.dart';
 
 import 'components/world.dart';
 import 'helpers/direction.dart';

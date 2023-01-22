@@ -1,4 +1,3 @@
-
 import 'package:flame/components.dart';
 import 'package:flame/geometry.dart';
 import 'package:flame/sprite.dart';
